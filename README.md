@@ -1,12 +1,13 @@
-### Hi there, I'm John Osezele 😀👋
+### Hi there,  😀👋
 
-## I'm a native android developer and a Flutter developer 📱
-- I'm learning all things: 
-- 💡Kotlin, Dart, Java
-- 💡Jetpack compose
-- 💡Modern Android Development
+## You'd see here that I mostly have built small mobile apps with: 📱
+- 💡Java (grandmother)
+- 💡Kotlin (granddaughter)
+- 💡Dart (Side chick..lol)
 - I'm enthusiastic about open source development, with my first contribution being: [CourierApplication]
-- 😄fun fact: I enjoy swimming 🏊
+- 😄Let's collaborate to build cool tiny moving pixels that make everyone's life easier on their mobile device
+
+### May the code be with you!
 
 
 
