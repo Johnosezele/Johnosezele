@@ -7,7 +7,7 @@ PS: My display pic is from my first physical meetup at Devfest in 2021
 - 💡Kotlin (granddaughter)
 - 💡Dart (Side chick..lol)
 - 🫡Swift and SwiftUI (For iOS and MacOS)
-- 🫠Who knows if I'll add ReactNative in 2025 🤫
+- 🫠ReactNative
 
   
 # Cool stuff
