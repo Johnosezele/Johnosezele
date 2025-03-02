@@ -1,13 +1,12 @@
-### Hi there, welcome to my github  😀👋
-PS: My display pic is from my first physical meetup at Devfest in 2021
+### Hi there, welcome to my GitHub  😀👋
 
 ## Welcome to my repositories(finished & unfinished😉): 
-# Mobile Stack I've worked with and currently working with:
+# Mobile Engineering toolkit:
 - 💡Java (grandmother)
-- 💡Kotlin (granddaughter)
+- 💡Kotlin (mother)
 - 💡Dart (Side chick..lol)
-- 🫡Swift and SwiftUI (For iOS and MacOS)
-- 🫠ReactNative
+- 🫡Swift and SwiftUI (cool uncle)
+- 🫠ReactNative (black sheep)
 
   
 # Cool stuff
