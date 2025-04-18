@@ -5,7 +5,7 @@
 - I write proficient Java, kotlin, dart, and swiftUI for building native and cross-platform/multiplatform apps
 
 ### Bitcoin OpenSource Contributor
-- Actively contributing to rust-bitcoin projects
+- Actively contributing to Bitcoin projects (currently rust-payjoin)
 
   
 ### Personal Projects open for collaborations
